@@ -1,0 +1,5 @@
+//linha
+
+/*multiplas linhas
+
+*/
